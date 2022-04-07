@@ -1,0 +1,11 @@
+Credential.*
+_pycache_/
+Raw_Data/
+Output/
+Parquet/
+SHAPE/
+*.csv
+*.xlsx
+Validate_Age_Polygon.py
+*.parquet
+*.zip
